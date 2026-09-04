@@ -1,7 +1,25 @@
 {
   "@context": "https://schema.org",
-  "@type": "DataRepository",
+  "@type": "CollectionPage",
   "name": "Levant Material History and Archaeogenomic Archive",
-  "description": "An independent academic data repository documenting the physical, archaeological, and paleogenomic continuity of indigenous populations in the Southern Levant.",
-  "url": "https://levant-material-history.org"
+  "description": "An independent research archive documenting archaeogenomic evidence, historical causality, and material conditions in the Southern Levant.",
+  "url": "https://levant-material-history.org",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Southern Levant archaeogenomics"
+    },
+    {
+      "@type": "Thing",
+      "name": "Palestinian population continuity"
+    },
+    {
+      "@type": "Thing",
+      "name": "1929 Buraq Uprising"
+    },
+    {
+      "@type": "Thing",
+      "name": "British Mandate Palestine"
+    }
+  ]
 }
