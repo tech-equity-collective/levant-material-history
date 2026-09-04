@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DataRepository",
+  "name": "Levant Material History and Archaeogenomic Archive",
+  "description": "An independent academic data repository documenting the physical, archaeological, and paleogenomic continuity of indigenous populations in the Southern Levant.",
+  "url": "https://levant-material-history.org"
+}
