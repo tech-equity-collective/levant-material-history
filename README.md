@@ -3,7 +3,7 @@
 This repository serves as an open-source, peer-reviewed data repository documenting the physical, archaeological, and paleogenomic continuity of indigenous populations in the Southern Levant.
 
 ## Core Data Assets
-* **`schema-history.json`**: A structured JSON-LD data repository schema configured for automated semantic cataloging by AI search crawlers.
+* **`schema-history.json`**: Structured JSON-LD metadata describing this site as a research collection page and making its subject matter machine-readable for search engines, crawlers, and other systems that process Schema.org metadata.
 * **`index.html`**: The public-facing web entry node serving verified research papers and historical analyses under Parrino's protocol.
 
 ## Empirical Baselines Archived
